@@ -1,0 +1,125 @@
+{
+  "appInfo" : {
+    "build" : "213.5449.25",
+    "buildDate" : "2021-10-27T15:28:17.267Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2021-11-01T10:51:17.246124Z",
+    "os" : "macOS 11.5.2",
+    "runtime" : "JetBrains s.r.o. 11.0.12 11.0.12+7-b1751.11"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "problem2",
+    "times" : {
+      "indexingReason" : "changes in: \"Module 'problem2.test' (test)\", \"Module 'problem2.main' (main)\", \"JDK 16\", \"Library Gradle: com.jetbrains:ideaIC:LATEST-EAP-SNAPSHOT\", \"Library Gradle: unzipped.com.jetbrains.plugins:java:unzipped.com.jetbrains.plugins:ideaIC-IC-213.5449.25-withSources\", \"Library Gradle: org.jetbrains:annotations:22.0.0\", \"Library Gradle: com.jetbrains:ideaIC:LATEST-EAP-SNAPSHOT\", \"Library Gradle: unzipped.com.jetbrains.plugins:java:unzipped.com.jetbrains.plugins:ideaIC-IC-213.5449.25-withSources\"",
+      "totalUpdatingTime" : 289871841,
+      "indexingTime" : 0,
+      "contentLoadingTime" : 0,
+      "scanFilesTime" : 239428000,
+      "pushPropertiesTime" : 1124000,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2021-11-01T10:51:16.955869Z",
+      "updatingEnd" : "2021-11-01T10:51:17.245744Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 8,
+      "numberOfScannedFiles" : 233850,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 0
+    },
+    "totalStatsPerFileType" : [ ],
+    "totalStatsPerIndexer" : [ ],
+    "scanningStatistics" : [ {
+      "providerName" : "Library Gradle: com.jetbrains:ideaIC:LATEST-EAP-SNAPSHOT",
+      "numberOfScannedFiles" : 75880,
+      "numberOfSkippedFiles" : 89,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 150854562,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: com.jetbrains:ideaIC:LATEST-EAP-SNAPSHOT",
+      "numberOfScannedFiles" : 43387,
+      "numberOfSkippedFiles" : 3,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 126018351,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: unzipped.com.jetbrains.plugins:java:unzipped.com.jetbrains.plugins:ideaIC-IC-213.5449.25-withSources",
+      "numberOfScannedFiles" : 54695,
+      "numberOfSkippedFiles" : 17,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 116043108,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "JDK 16",
+      "numberOfScannedFiles" : 41140,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 106284863,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: unzipped.com.jetbrains.plugins:java:unzipped.com.jetbrains.plugins:ideaIC-IC-213.5449.25-withSources",
+      "numberOfScannedFiles" : 18656,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 50302530,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.jetbrains:annotations:22.0.0",
+      "numberOfScannedFiles" : 86,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 224388,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'problem2.main' (main)",
+      "numberOfScannedFiles" : 5,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 13396,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'problem2.test' (test)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 5496,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ ]
+  }
+}

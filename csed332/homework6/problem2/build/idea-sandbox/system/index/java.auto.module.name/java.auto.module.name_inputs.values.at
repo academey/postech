@@ -1,0 +1,14 @@
+/Header Record For PersistentHashMapValueStorage	3rd.partyannotationsgradle.coreaether.dependency.resolverannotationsdebugger.memory.agent3rd.party.rtjava.api	3rd.party%"ideaIC.LATEST.EAP.SNAPSHOT.sources	java.implgradle.core.api# gradle.kotlin.dsl.tooling.modelsgradle.kotlin.dslant	ant.antlrant.apache.bcelant.apache.bsfant.apache.log4jant.apache.oroant.apache.regexpant.apache.resolverant.apache.xalan2ant.commons.loggingant.commons.net
+ant.jaiant.javamailant.jdepend
+ant.jmfant.jsch	ant.junit
+ant.junit4ant.junitlauncherant.launcherant.netrexx	ant.swingant.testutil	ant.xzasmasm.analysisasm.commonsasm.treeasm.utilasync.profiler	bootstrapbyte.buddy.agentorg.apache.commons.net	dbus.javadom.impldom.openapiduplicates.analysiserror.prone.annotationsexternal.system.rtforms.rtgrpc.netty.shadedidea
+idea.rtintellij.coverage.agentintellij.test.discovery	javac2	jb.jdi
+java.utilsjdkAnnotationsjdkAnnotationsjffijgoodies.commonjps.buildersjffijnajps.buildersjps.javac.extensionjps.launcherjshell.frontendjshell.protocolcom.thoughtworks.qdox
+sa.jdwp
+jnr.a64asmjnr.constants	jnr.enxio
+jnr.ffi	jnr.posixjnr.unixsocket
+jnr.x86asm	jps.modeljsp.base.openapi	junit4kotlin.reflectkotlin.stdlib.jdk8kotlin.test
+kotlinxorg.codehaus.groovyorg.codehaus.groovy.jsonorg.codehaus.groovy.jsr223 org.codehaus.groovy.templatesorg.codehaus.groovy.xmlplatform.apiplatform.impl(%platform.objectSerializer.annotationsplatform.statistics.devkitcom.google.protobufpty4j
+rd.corerd.frameworkrd.swing
+rd.textstatsstructuralsearchtestFrameworktestFramework.javatestFramework.coretests.bootstrap
+uast.testsutilwinp

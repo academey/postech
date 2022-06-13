@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorCopy">
+      <i c="1" l="1635771997873" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1635763642030" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1635763719424" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="2" l="1635772841727" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="4" l="1635773156124" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1635763783178" />
+    </e>
+  </component>
+</application>

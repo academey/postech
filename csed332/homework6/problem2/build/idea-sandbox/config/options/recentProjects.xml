@@ -1,0 +1,35 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – plugin.xml (org.example.untitled)" projectWorkspaceId="20JXVgf4PbmFcbdctjFsZzva5HB">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.5449.25" />
+              <option name="buildTimestamp" value="1635348497267" />
+              <option name="eap" value="true" />
+              <frame x="196" y="45" width="1400" height="970" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1635763690198" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/project/csed332/homework6/problem2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="problem2 – MyToolWindow.java [problem2.main]" opened="true" projectWorkspaceId="20JI0vynzwAWCsKqZXQnV3pG7Lq">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.5449.25" />
+              <option name="buildTimestamp" value="1635348494120" />
+              <option name="eap" value="true" />
+              <frame x="196" y="45" width="1400" height="970" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1635773156209" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
